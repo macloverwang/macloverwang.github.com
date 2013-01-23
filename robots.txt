@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+
+Sitemap: http://macloverwang.github.com/sitemap.xml 
