@@ -4,7 +4,7 @@
   <title><![CDATA[My Octopress Blog]]></title>
   <link href="http://macloverwang.github.com/atom.xml" rel="self"/>
   <link href="http://macloverwang.github.com/"/>
-  <updated>2013-01-24T02:23:08+08:00</updated>
+  <updated>2013-01-24T02:24:09+08:00</updated>
   <id>http://macloverwang.github.com/</id>
   <author>
     <name><![CDATA[Your Name]]></name>
@@ -18,7 +18,7 @@
     <link href="http://macloverwang.github.com/blog/2013/01/24/qing-zhu-xin-bo-ke-kai-tong/"/>
     <updated>2013-01-24T02:08:00+08:00</updated>
     <id>http://macloverwang.github.com/blog/2013/01/24/qing-zhu-xin-bo-ke-kai-tong</id>
-    <content type="html"><![CDATA[<p>Hello World!</p>
+    <content type="html"><![CDATA[
 ]]></content>
   </entry>
   
