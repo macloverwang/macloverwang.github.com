@@ -4,7 +4,7 @@
   <title><![CDATA[My Octopress Blog]]></title>
   <link href="http://macloverwang.github.com/atom.xml" rel="self"/>
   <link href="http://macloverwang.github.com/"/>
-  <updated>2013-01-24T01:45:45+08:00</updated>
+  <updated>2013-01-24T01:55:18+08:00</updated>
   <id>http://macloverwang.github.com/</id>
   <author>
     <name><![CDATA[Your Name]]></name>
@@ -12,5 +12,22 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Mountain Lionxia An Zhuang Octopress]]></title>
+    <link href="http://macloverwang.github.com/blog/2013/01/24/mountain-lionxia-an-zhuang-octopress/"/>
+    <updated>2013-01-24T00:00:00+08:00</updated>
+    <id>http://macloverwang.github.com/blog/2013/01/24/mountain-lionxia-an-zhuang-octopress</id>
+    <content type="html"><![CDATA[<p>test&#8212;
+layout: post
+title: &#8220;Mountain Lion下安裝Octopress&#8221;
+date: 2013-01-24 01:51
+comments: true</p>
+
+<h2>categories: </h2>
+
+<p>Hello World!</p>
+]]></content>
+  </entry>
   
 </feed>
