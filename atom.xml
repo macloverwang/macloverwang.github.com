@@ -4,7 +4,7 @@
   <title><![CDATA[Momo's Blog]]></title>
   <link href="http://macloverwang.github.com/atom.xml" rel="self"/>
   <link href="http://macloverwang.github.com/"/>
-  <updated>2013-02-04T00:21:31+08:00</updated>
+  <updated>2013-02-04T00:22:38+08:00</updated>
   <id>http://macloverwang.github.com/</id>
   <author>
     <name><![CDATA[MomoWong]]></name>
@@ -18,11 +18,15 @@
     <link href="http://macloverwang.github.com/blog/2013/01/24/qing-zhu-xin-bo-ke-kai-tong/"/>
     <updated>2013-01-24T02:08:00+08:00</updated>
     <id>http://macloverwang.github.com/blog/2013/01/24/qing-zhu-xin-bo-ke-kai-tong</id>
-    <content type="html"><![CDATA[<p>希特勒的第一张照片
-你好
-我们呢
-打假好
-才是真的好</p>
+    <content type="html"><![CDATA[<p>希特勒的第一张照片</p>
+
+<p>你好</p>
+
+<p>我们呢</p>
+
+<p>打假好</p>
+
+<p>才是真的好</p>
 ]]></content>
   </entry>
   
