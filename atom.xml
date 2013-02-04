@@ -4,7 +4,7 @@
   <title><![CDATA[Momo's Blog]]></title>
   <link href="http://macloverwang.github.com/atom.xml" rel="self"/>
   <link href="http://macloverwang.github.com/"/>
-  <updated>2013-02-05T02:34:06+08:00</updated>
+  <updated>2013-02-05T02:43:32+08:00</updated>
   <id>http://macloverwang.github.com/</id>
   <author>
     <name><![CDATA[MomoWong]]></name>
@@ -12,6 +12,29 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[只用iPad的30天之第八天：试试联系人管理]]></title>
+    <link href="http://macloverwang.github.com/blog/2013/02/05/zhi-yong-ipadde-30tian-zhi-di-ba-tian-%3Ashi-shi-lian-xi-ren-guan-li/"/>
+    <updated>2013-02-05T02:37:00+08:00</updated>
+    <id>http://macloverwang.github.com/blog/2013/02/05/zhi-yong-ipadde-30tian-zhi-di-ba-tian-:shi-shi-lian-xi-ren-guan-li</id>
+    <content type="html"><![CDATA[<!-- more -->
+
+
+<p><img src="http://macloverwang.github.com/images/ipad8.jpg"><br>
+管理与保存联系人信息，可以说是我的PC各种功能中的重要一项。作为今天的ipad的30天项目任务，我们一起来看看iPad处理此类重要任务的能力。<br>
+通常，我们会直接使用iOS内置的联系人程序，将iPad连上PC，打开itunes设置其与个人电脑同步Outlook或Google邮箱联系人，同步之后，iPad上就具有了PC上的全部联系人信息。很简单，不是吗？<br>
+联系人应用按字母顺序排序将联系人显示在左侧，右侧显示具体联系人的详细信息，一般包括手机号码、邮件地址以及住址等
+。为便于识别，你也可以为每个联系人设置大头照。细节方面，还可以为联系人设置个性化信息，生日等其他信息，不过这些设置选项，只有在编辑某具体联系人时，选择增加属性才能看到。对于大多数用户来说，iPad上自带的联系人应用应该够用了。不过，我需要的不仅是简单的联系人列表，还应该能够编辑管理联系人组。因此，我需要更完善的联系人管理应用。<br>
+理论上，在ipad上是可以以家人，同事，客户等类别为联系人分组的，但是你如果通过PC上的exchange或google gmail同步分组联系人，iOS4是不支持的，也许用Mac电脑同步可以支持，但是我这次项目的本意就是以iPad代替电脑来使用，这条路显然不通。<br>
+我转而尝试了Bento,整体来说,这款应用配合MacOS系统使用还不错,我挺喜欢,但联系人地址簿功能和iOS的类似,而且在其联系人页面没有FaceTime功能键来直接触发视频通话,这样看来还不如iPad自身的联系人应用了。因此Bento也无法满足我的需求。<br>
+我在iPhone和iPad上使用一款叫作VIPorbit的应用.采用类似Google+的圈子的设计模式,VIPorbit把联系人设置在不同的轨道圈中,例如,家人、朋友、同事三个分组被分别设置到三个联系人圈中，同一联系人可以同时在不同圈里出现（既是朋友又是同事）。VIPorbit的联系人设置里除了标准的照片、电话号码、邮箱地址外，还提供了一些联系人的其他属性：Facebook, Twitter, and Skype。这样在应用里，针对某一联系人的电话呼叫、发送短信、更新Facebook、拨打skype、发送twitter等就可以直接触发了。更强大的是，VIPorbit应用还内置日历以及联系人活动管理功能。我费了好大力气，在VIPorbit里设置了全部联系人信息。有了它，各种联系及事物处理方便了很多，我很满意。不过遗憾的是这款应用没有原生iPad版，前面我说过，在iPad上运行强制放大的iPhone版应用，画面看起来很是不爽。好消息是iPad版VIPorbit正在开发中。<br>
+不过在与PC同步方面，VIPorbit完全无法同iOS的联系人相提并论。尽管需要以PC为中介，iOS联系人应用可以通过同步在iPhone、iPad、PC保持完全一致的联系人信息。更进一步的是，iOS5及iCloud发布后，还可以无需PC进行无线云同步。VIPorbit有望在后续更新版本中解决此问题，实现通过同步在不同设备上保持一致的信息。<br>
+iOS5里完善后的联系人应用对我确实是个诱惑，除了满足基本使用需求外，作为内置原生应用能够与iOS系统其他应用深度整合，能够无线同Exchange同步。考虑到商务使用以及iPad替代PC应具有的生产力表现，我还是更加愿意使用VIPorbit。<br>
+对于联系人维护管理，工具一旦选定，同时你也将被其绑架。联系人设置至完全可用，可不是件容易的事，到目前为止，我还没发现可以无缝完整进行跨平台或设备导入导出联系人信息的工具。同样更换联系人工具也是令人望而却步的事情。<br>
+请谨慎选择，否则，一旦改变主意，相信我，重建联系人库的工作你绝对不想再做第二次。</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[只用iPad的30天之第七天：谈谈社交网络]]></title>
