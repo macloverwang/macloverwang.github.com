@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Momo's Blog]]></title>
-  <link href="http://macloverwang.github.com/atom.xml" rel="self"/>
+  <title><![CDATA[Category: iDevice | Momo's Blog]]></title>
+  <link href="http://macloverwang.github.com/blog/categories/idevice/atom.xml" rel="self"/>
   <link href="http://macloverwang.github.com/"/>
   <updated>2013-02-05T00:45:52+08:00</updated>
   <id>http://macloverwang.github.com/</id>
@@ -21,7 +21,7 @@
     <content type="html"><![CDATA[<!-- more -->
 
 
-<p><img src="http://macloverwang.github.com/images/htl2.jpg"><br>
+<p><img src="/images/htl2.jpg"><br>
 小睡袍里的这个小家伙是谁？<br>
 那是小宝宝阿道尔夫，希特勒家的小男孩！<br>
 他长大了会成为法学博士么？<br>
