@@ -4,7 +4,7 @@
   <title><![CDATA[Momo's Blog]]></title>
   <link href="http://macloverwang.github.com/atom.xml" rel="self"/>
   <link href="http://macloverwang.github.com/"/>
-  <updated>2013-02-05T02:14:28+08:00</updated>
+  <updated>2013-02-05T02:20:07+08:00</updated>
   <id>http://macloverwang.github.com/</id>
   <author>
     <name><![CDATA[MomoWong]]></name>
@@ -12,6 +12,25 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[只用iPad的30天之第六天：不完美的多任务]]></title>
+    <link href="http://macloverwang.github.com/blog/2013/02/05/zhi-yong-ipadde-30tian-zhi-di-liu-tian-%3Abu-wan-mei-de-duo-ren-wu/"/>
+    <updated>2013-02-05T02:19:00+08:00</updated>
+    <id>http://macloverwang.github.com/blog/2013/02/05/zhi-yong-ipadde-30tian-zhi-di-liu-tian-:bu-wan-mei-de-duo-ren-wu</id>
+    <content type="html"><![CDATA[<!-- more -->
+
+
+<p>二十年来,尽管不同系统实现方式各异，多任务操作可以说是桌面操作系统与生俱来的一种能力。作为未来主流计算平台潜力军，这种能力iPad理当具备。不过，严格说来，苹果iOS系统目前还未能实现真正的多任务处理。现在能讨论的是iOS现有的多任务处理能力够不够用的问题。<br>
+首先，我们来看看苹果的多任务是如何运作的。早期版本的iOS不支持多任务，当你打算切换到其他应用程序时，当前打开的应用将立即被关闭，未保存的所有用户数据也随之烟消云散。<br>
+<img src="http://macloverwang.github.com/images/ipad5.jpg"><br>
+终于，面对翘首以盼的用户，为满足某些需求，Apple在iOS4系统中提供了其独特的多任务解决方案。独特在于iOS4的多任务模式下，后台的应用程序实际上并没有同时在运行，而是处于一种挂起的冻结状态，当后台程序重新切换到前台，系统迅速恢复冻结之前的状态，让用户以为它一直在后台运行。不过也有少数例外，比如，类似GPS定位或音乐播放应用，他们能够在后台一直保持运行状态。以上可看出，其实iOS不是真正的多任务系统，不过聊胜于无而已。<br>
+实际使用中，我用iPad写作时，iOS多任务确实有诸多不便。这里，我不是指多任务运行模式下，各应用本身功能展现的问题，实际上，在欣赏着后台iPod或Pandora音乐的同时，时而切换到邮件程序画面，时而看看网络信息资料，再切换到Pages程序书写，我觉的还行。真正不便是在于，在ipad不大的屏幕上，多任务应用间的切换方式的问题上。为了切换到后台运行中的程序，必须双击Home键才行，我经常按的不够快而退回到了主屏幕，简直是手忙脚乱，而且这么按来按去，我都开始担心，早晚一天我把Home给按报废喽！<br>
+另外，用惯了windows 7系统，多个程序打开后，我可以通过任务栏在不同的应用中方便的切换。我还喜欢在桌面上并排打开Word和浏览器，边看资料边写文章，效率别提有多高， 可惜，在iPad的小屏幕上，同时打开多窗口也是不太现实。<br>
+技术一直在发展进步，9月份将要发布的iOS5系统将会解决一部分问题，比如，iOS5引入了多任务手势，使用四个或五个手指在屏幕上向上滑动调出多任务状态栏，合拢滑动关闭应用，左右滑动在多个任务间切换，完全可以抛开使用Home键了，确实很方便。此外，使用视频转换器或者AirPlay，还可以把ipad应用画面以有线或无线的方式传输到大屏幕上显示。不过，屏幕上多应用并列同时显示暂时还是无法实现。（据说，越狱的ipad可以通过安装第三方软件来实现）<br>
+尽管使用上或多或少的不方便，iPad还是基本能够满足我的使用需求，虽然iOS5将会解决一些问题，这还不够，期待着Apple早日提供完美的多任务解决方案，让ipad成为方便高效的未来主流计算工具平台。</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[只用iPad的30天之第五天：没有Flash也精彩]]></title>

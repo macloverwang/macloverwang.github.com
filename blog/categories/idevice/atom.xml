@@ -4,7 +4,7 @@
   <title><![CDATA[Category: iDevice | Momo's Blog]]></title>
   <link href="http://macloverwang.github.com/blog/categories/idevice/atom.xml" rel="self"/>
   <link href="http://macloverwang.github.com/"/>
-  <updated>2013-02-05T02:14:28+08:00</updated>
+  <updated>2013-02-05T02:20:07+08:00</updated>
   <id>http://macloverwang.github.com/</id>
   <author>
     <name><![CDATA[MomoWong]]></name>
@@ -12,6 +12,25 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[只用iPad的30天之第六天：不完美的多任务]]></title>
+    <link href="http://macloverwang.github.com/blog/2013/02/05/zhi-yong-ipadde-30tian-zhi-di-liu-tian-%3Abu-wan-mei-de-duo-ren-wu/"/>
+    <updated>2013-02-05T02:19:00+08:00</updated>
+    <id>http://macloverwang.github.com/blog/2013/02/05/zhi-yong-ipadde-30tian-zhi-di-liu-tian-:bu-wan-mei-de-duo-ren-wu</id>
+    <content type="html"><![CDATA[<!-- more -->
+
+
+<p>二十年来,尽管不同系统实现方式各异，多任务操作可以说是桌面操作系统与生俱来的一种能力。作为未来主流计算平台潜力军，这种能力iPad理当具备。不过，严格说来，苹果iOS系统目前还未能实现真正的多任务处理。现在能讨论的是iOS现有的多任务处理能力够不够用的问题。<br>
+首先，我们来看看苹果的多任务是如何运作的。早期版本的iOS不支持多任务，当你打算切换到其他应用程序时，当前打开的应用将立即被关闭，未保存的所有用户数据也随之烟消云散。<br>
+<img src="/images/ipad5.jpg"><br>
+终于，面对翘首以盼的用户，为满足某些需求，Apple在iOS4系统中提供了其独特的多任务解决方案。独特在于iOS4的多任务模式下，后台的应用程序实际上并没有同时在运行，而是处于一种挂起的冻结状态，当后台程序重新切换到前台，系统迅速恢复冻结之前的状态，让用户以为它一直在后台运行。不过也有少数例外，比如，类似GPS定位或音乐播放应用，他们能够在后台一直保持运行状态。以上可看出，其实iOS不是真正的多任务系统，不过聊胜于无而已。<br>
+实际使用中，我用iPad写作时，iOS多任务确实有诸多不便。这里，我不是指多任务运行模式下，各应用本身功能展现的问题，实际上，在欣赏着后台iPod或Pandora音乐的同时，时而切换到邮件程序画面，时而看看网络信息资料，再切换到Pages程序书写，我觉的还行。真正不便是在于，在ipad不大的屏幕上，多任务应用间的切换方式的问题上。为了切换到后台运行中的程序，必须双击Home键才行，我经常按的不够快而退回到了主屏幕，简直是手忙脚乱，而且这么按来按去，我都开始担心，早晚一天我把Home给按报废喽！<br>
+另外，用惯了windows 7系统，多个程序打开后，我可以通过任务栏在不同的应用中方便的切换。我还喜欢在桌面上并排打开Word和浏览器，边看资料边写文章，效率别提有多高， 可惜，在iPad的小屏幕上，同时打开多窗口也是不太现实。<br>
+技术一直在发展进步，9月份将要发布的iOS5系统将会解决一部分问题，比如，iOS5引入了多任务手势，使用四个或五个手指在屏幕上向上滑动调出多任务状态栏，合拢滑动关闭应用，左右滑动在多个任务间切换，完全可以抛开使用Home键了，确实很方便。此外，使用视频转换器或者AirPlay，还可以把ipad应用画面以有线或无线的方式传输到大屏幕上显示。不过，屏幕上多应用并列同时显示暂时还是无法实现。（据说，越狱的ipad可以通过安装第三方软件来实现）<br>
+尽管使用上或多或少的不方便，iPad还是基本能够满足我的使用需求，虽然iOS5将会解决一些问题，这还不够，期待着Apple早日提供完美的多任务解决方案，让ipad成为方便高效的未来主流计算工具平台。</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[只用iPad的30天之第五天：没有Flash也精彩]]></title>
@@ -102,26 +121,6 @@ Wi-Fi还是3G:讨论之前，我们先看2个问题。第一，你通常在哪�
 如果经常在家或办公室，又或在类似Starbucks等场所使用，那这些地方一般有无线热点可供使用。如果你是商旅达人，整天在路上，那最好还是使用3G版吧。<br>
 16GB，32GB还是64GB：究竟多大空间才够用？目前，市面上很多iPad竞争产品可以使用SD插槽或USB端口进行存贮扩展，但苹果是苹果，他不提供这些，就16G、32G、64G三款可选。不过，你真的需要，你也可以破解你的iPad，然后使用苹果的官方配件Camera connection kit来使用外部SD卡设备。就个人推荐，我建议购买32GB容量的。再配合一些网络存储服务，比如DropBox以及苹果即将推出的iCloud服务等， 我想对于大多数人来说够用了。<br>
 本次测试项目的需要，我选择了64GB容量WiFi版本的iPad2。</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[只用iPad的30天之第一天]]></title>
-    <link href="http://macloverwang.github.com/blog/2013/02/05/zhi-yong-ipadde-30tian-zhi-di-%5B%3F%5D-tian/"/>
-    <updated>2013-02-05T01:11:00+08:00</updated>
-    <id>http://macloverwang.github.com/blog/2013/02/05/zhi-yong-ipadde-30tian-zhi-di-[?]-tian</id>
-    <content type="html"><![CDATA[<!-- more -->
-
-
-<p><img src="/images/ipad1.jpg"><br>
-我们再次上路了,可能你们会说, 你还真的是挺能折腾自己啊!是啊,又一个全新的30天项目开始了。现在,我正在iPad2上使用 iWork套件程序Pages(苹果公司的word字处理软件)撰写这篇文章呢!这次,我将只使用iPad来度过这个美好的7月。<br>
-30天里,我可不是说,只打算用iPad练习打小鸟游戏,看看能否打败我5岁女儿(门都没有, 她可是个iPad游戏小神童),或者使用 kindle程序看一个月的书(我买了很多书,都等着我去看尼)。虽然,我可能也会玩玩游戏看看书,不过这些都不是这个项目的重点 。<br>
-你没看错，在这30天里，我要放弃使用我一直信赖的Dell XPS M1330笔记本电脑，过去3年来我的收入可全靠它了；我还要再次放弃我喜爱的Windows 7系统。你知道，我刚刚完成了我和乌班图Linux系统的30天这个项目，正准备回到Windows 7系统的怀抱呢。不过，这次的iPad之30天项目实在是让人感兴趣。<br>
-说实在的，此次我就是想借此项目来验证我一直持有的观点（iPad可以取代笔记本）。自从一代iPad发售，我立刻粉爱上了它，我相信,对于大多数用户来说，iPad终会取代笔记本电脑，成为主流的计算机平台。真的会吗？我认为我们很快就会知道。<br> <br/>
-前面说过，我知道，iPad可以用来玩玩愤怒的小鸟游戏，可以当作阅读器看书，可以上网冲浪，还可以看看Netflix电影。我自己也是经常性的惬意休闲的使用它。但是，问题来了，如果以后我的笔记本再也无法使用，iPad可以完全代替我的笔记本作为我的谋生工具吗？<br>
-如我上个月Ubuntu Linux之旅一样，这次30天iPad使用项目的每日文章会涉及方方面面各种主题，比如为完成某件事而安装一些应用程序，进行一些需要的配置，让iPad能够代替PC来使用，而不是只把它当作娱乐设备娱乐而已。<br>
-另外，可以预见，项目进行中我会遇到很多小问题，我知道，他们都将会随着iOS5的发布而解决。我将会在后面文章中尽力逐一指出。<br>
-好了，和我一起上路吧，希望你每天都过来看看，也很乐意收到你的评论或意见！</p>
 ]]></content>
   </entry>
   
