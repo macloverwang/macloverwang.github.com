@@ -4,7 +4,7 @@
   <title><![CDATA[Category: iDevice | Momo's Blog]]></title>
   <link href="http://macloverwang.github.com/blog/categories/idevice/atom.xml" rel="self"/>
   <link href="http://macloverwang.github.com/"/>
-  <updated>2013-02-05T03:25:31+08:00</updated>
+  <updated>2013-02-05T03:36:12+08:00</updated>
   <id>http://macloverwang.github.com/</id>
   <author>
     <name><![CDATA[MomoWong]]></name>
@@ -12,6 +12,50 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[只用iPad的30天之第十二天：小Pad]]></title>
+    <link href="http://macloverwang.github.com/blog/2011/08/31/zhi-yong-ipadde-30tian-zhi-di-shi-er-tian-%3Axiao-pad/"/>
+    <updated>2011-08-31T03:28:00+08:00</updated>
+    <id>http://macloverwang.github.com/blog/2011/08/31/zhi-yong-ipadde-30tian-zhi-di-shi-er-tian-:xiao-pad</id>
+    <content type="html"><![CDATA[<!-- more -->
+
+
+<p>这个月，除了以iPad代替PC使用，完成iPad的30天体验测试任务外，我还必须保证其它项目及相关商务工作不能因此受到影响。因此，今天我准备好好整理一下这些事情，看看我是如何在iPad上完成他们的。<br>
+我PC上有一些日常工作及商务使用软件,经过这么多年的使用考验,用起来顺手且可靠。很可惜，大多数都没有对应的iPad版应用。看来，我只能花点时间研究研究，寻找合适的替代应用了。某种方面来说，这和我上次30天Ubuntu Linux项目体验差不多，理论上没有什么事情做不了的，但你应该知道学习曲线的问题，且需要为此付出特别努力。<br>
+目前,Apple的应用商店大约有超过425000款应用,为iPad开发优化的大约有10万之多.Apple最近宣称,通过App store已售出了大约150亿份应用。长话短说吧，我的意思是，这么多应用，你总能找到一款你所需要的合适应用。<br></p>
+
+<h4>联系人管理</h4>
+
+
+<p>此方面在iPad的第8天已经做过专题讨论,这里就不再赘述了。在PC上，我使用Outlook程序来管理联系人及其相关事务，而在iPad上，我使用VIPorbit应用。可惜VIPorbit目前只有iphone版，不过相信iPad版很快就会推出。<br></p>
+
+<h4>待办任务管理(GTD)</h4>
+
+
+<p>同样，在iPad的第9天，我们已经详细讨论过iPad上的待办事项以及计划任务管理。RTM（Remember The Milk）这款应用对我来说挺适用。不过另外几款也不错，如Bento、Things、Taska等。我也喜欢使用Bento，总体来说这款应用和RTM差不多。后面，我还会比较尝试使用Things和Taska的。<br></p>
+
+<h4>财务管理</h4>
+
+
+<p>自从Quicken财务管理软件推出以来，我就一直使用，几乎每个版本都用过，可以说是铁杆用户了。在PC上，我个人以及商业方面的财务都是靠它来管理。像发票制作以及应收帐款跟踪事务等，处理起来得心应手。令人费解的是，iOS移动应用迅猛发展的今天，Quicken竟然没有iOS版本应用，真不知道Intuit公司是怎么想的。我在App Store搜索了一番，找到一些类似应用，还不错，有几款支持导入导出Quicken的QIF格式文件。这样，出门在外时，我可以使用他们，回到家或公司时再安排同PC上的Quicken做同步。不过，这也不是根本解决办法，发票制作还是无法处理。我的目标是iPad能够代替PC来使用，而不是作为PC的补充。在iPad或iPhone上，你还可以使用Intuit公司的网站Mint.com来进行在线财务管理，使用体验还不错。但是，对我来说，缺乏面向商业的发票处理功能的应用，始终不算是成熟的解决方案。<br>
+<img src="/images/ipad13.jpg"><br>
+如同我上一个30天使用Ubuntu项目一样，能不能搜索找到你需要的解决方案，取决于你如何挖掘寻找了，我在App Store以发票关键字搜索后，找到了大约60种不同应用，经过深入的研究分析，最后锁定了Invoice2go for iPad应用，这款应用可以制作精美的发票，可以跟踪管理收入支出，甚至能生成统计报表以供财务分析。不错，财务管理的需求基本得到满足。</p>
+
+<h4>时间开销管理</h4>
+
+
+<p>我的项目有按小时核算的，有不按时间核算的，但是不管按不按小时计算，对我老说，掌握跟踪项目时间开销于我非常有价值。PC上我使用Freshbooks来查看管理时间花费，这是一款基于WEB网站的应用，因此在iPad上使用体验同PC没什么差异。<br>
+Freshbooks有iOS版本应用，没有网络的情况下，移动办公时，我们也可以在本地使用。奇怪的是，这款应用现在在APP STORE上消失。看来只能再找替代应用了，MiniBooks Lite是一款iPhone版本的类似应用，它采用Freshbooks API与Freshbooks网站通讯与同步，作为非iPad原生应用，在iPad上只能勉强使用，但有总比没有好吧。
+<img src="/images/ipad14.jpg"></p>
+
+<h4>商务票据管理</h4>
+
+
+<p>虽然有些事情通常在PC上的Quicken中处理很顺手，但是在带有摄像头的iPad上面，还有更好的应用可以选择，Expensify就是这样一款应用。使用Quicken管理商务花费时，你不必再将发票、收据等纸头放在鞋盒子里啦（开个玩笑），你可以通过扫描仪将他们转化为电子影像，保存在Quicken里，确实很方便，但是扫描工作挺繁琐乏味。使用Expensify就方便多了，打开摄像头对准发票等单据拍照，Expensify将自动将他们转为电子影像并自动OCR解析登记日期，金额等信息，你所要做的就是再做适当编辑、分类、归档、打上标签以备后续检索。简直是太方便了。我想，在浩如烟海的iOS应用中，类似独特功能的iPad精品应用应该很多，等待你的只是探索与发现。<br>
+总之，到目前为止，我还没遇到什么PC可以而iPad上不能完成的任务，我相信这样的使用场景肯定有，比如在iPad上制作复杂3D图像，可我不需要处理这些任务，因此对我没什么影响。正如我以前说过，使用你不熟悉或不擅长的工具，很多时候就是以唯一可用的困难方式处理原本可以简单处理的任务，犹如逆流游泳，但请坚信，事情总是有其解决之道！</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[只用iPad的30天之第十一天：外接实体键盘]]></title>
@@ -95,42 +139,6 @@ ToodleDo有iPad版本，其定制化及细节层级方面做的不错，在偏�
 iOS5里完善后的联系人应用对我确实是个诱惑，除了满足基本使用需求外，作为内置原生应用能够与iOS系统其他应用深度整合，能够无线同Exchange同步。考虑到商务使用以及iPad替代PC应具有的生产力表现，我还是更加愿意使用VIPorbit。<br>
 对于联系人维护管理，工具一旦选定，同时你也将被其绑架。联系人设置至完全可用，可不是件容易的事，到目前为止，我还没发现可以无缝完整进行跨平台或设备导入导出联系人信息的工具。同样更换联系人工具也是令人望而却步的事情。<br>
 请谨慎选择，否则，一旦改变主意，相信我，重建联系人库的工作你绝对不想再做第二次。</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[只用iPad的30天之第七天：谈谈社交网络]]></title>
-    <link href="http://macloverwang.github.com/blog/2011/07/29/zhi-yong-ipadde-30tian-zhi-di-qi-tian-%3Atan-tan-she-jiao-wang-luo/"/>
-    <updated>2011-07-29T02:29:00+08:00</updated>
-    <id>http://macloverwang.github.com/blog/2011/07/29/zhi-yong-ipadde-30tian-zhi-di-qi-tian-:tan-tan-she-jiao-wang-luo</id>
-    <content type="html"><![CDATA[<!-- more -->
-
-
-<p>作为社交网络的重度使用者，日常工作时我离不开他们。我不关心社交网络是否有其商业目的及价值，我主要利用他们获取热门信息，保持紧跟潮流。有时发现新鲜趣闻或写点小稿后，我都是通过社交网络与网友共同分享。既然如此依赖他们，自然，这次30天项目里我得认真评估，测试iPad是否满足我的社交网络使用需求。<br>
-我常使用的社交网络有Facebook、LinkedIn以及Twitter。很不幸，目前只有Twitter有iPad版官方客户端应用，我最喜欢的PC版Twitter应用只推出了iPhone版，尽管也能在iPad上使用，但看着因强制分辨率放大，应用模糊马赛克般的丑陋界面，我宁愿忍受小屏幕而在我iPhone上使用。<br>
-<img src="/images/ipad6.jpg"><br>
-下面我们分别来看看这三类社交网络。<br></p>
-
-<h4>Facebook</h4>
-
-
-<p>曾有人向马克扎克格勃提议开发iPad版的Facebook应用，但他回应道：“iPad不算是移动设备”。对此，我不以为然。“或许马克这小子从来没见过或用过iPad”，我只能这样想。<br>
-后来，我总算搞明白了，敢情扎克伯格是认为iPad屏幕足够大了，并且运行着桌面级的safari浏览器，用户应该能够像在桌面或笔记本上使用那样，在iPad上浏览Facebook网站。没错，确实可以，但是因为Facebook网站在safari里不能完美展现，我要不断的移动、放大、缩小页面来四处翻看，一句话，用户体验很糟糕。iPad是移动设备, 我经常在 Starbucks、我女儿的体操班等地方使用它，相比背着笨重的电脑包，我更愿意像随身带着手机一样带着它。在需要的时候，拿出来签到Facebook地点或者查找Facebook商家信息。可惜目前只能通过iPhone应用使用。另外在照片共享方面，在iPad上使用网页版同样有一些问题，当上传照片时，网站是寻找浏览传统的本地文件及文件夹，或者干脆打开需Flash支持的摄像头应用（肯定行不通）。不像使用iPhone版应用能够知道连接照片库或打开摄像头拍照。虽然我们能通过Email附件上传照片，但这样就比较麻烦了。<br>
-我主要通过Friendly for Facebook以及MyPad这两个非官方应用在iPad上访问Facebook网站。因精美华丽的用户界面，我更喜欢MyPad一些，不过它不能上传照片，这时候我只能使用Friendly for Facebook来完成照片上传分享的任务。<br>
-这个周末，我一直期待着Facebook发布盛传已久的iPad官方应用，结果等来的是Facebook语音通话功能，看来，我只好继续等下去了。<br></p>
-
-<h4>LinkedIn</h4>
-
-
-<p>如同Facebook一样，LinkedIn同样只提供了非常完美的iPhone版的官方应用。在iPad上，我们同样只能通过safari浏览器访问LinkedIn网址，不过他们应该做过努力，LinkedIn在iPad上的safari浏览器中可以很好显示及使用，而且上传照片也没有问题。不过我还是希望LinkedIn能够推出官方原生的客户端应用程序。这样使用起来会便捷一些。<br></p>
-
-<h4>Twitter</h4>
-
-
-<p>最后，我们来讨论twitter。在即将发布的iOS5中，Twitter被深度整合在系统中了，届时，我们将不再需要客户端应用，不过眼下，还是需要你在Twitter官网和一些客户端应用中选择一个。iPad版Twitter应用目前很多：TwitBird, Twit Pro, Echofon for Twitter, Twitellator for iPad, Twitterific for Twitter等，我经常在我的PC上使用的Tweetdeck同样没有iPad版本，作为替代，我选择了官方应用 Twitter app for iPad，这款应用制作精良，充分利用了iPad的触摸屏手势操作，相比直接登录Twitter网站，使用起来非常方便快捷。<br>
-<img src="/images/ipad7.jpg"><br>
-最后，总结之前，我想顺便说说Flipboard。这款应用非常优秀,一度被很多人奉为神器。据说是脱口秀女王奥普拉最喜爱的一款iPad应用。通过Flipboard,你可以访问社交网络,比如查看Facebook信息,发发推,做做评论等,但是Flipboard精彩之处不在于仅用作社交网络的客户端,它可以把各种博客,Twitter文章信息聚合起来, 以一种近乎完美的排版形式呈现至你的眼前,从此,浏览博客网站、Facebook信息、Twitter消息就像在翻阅一本精美的杂志，体验效果棒极了。<br>
- 好了，总体看来，社交网络使用方面，iPad基本可以代替PC来使用，甚至借助于各类社交网络iPad版客户端，某些方面的使用体验尤甚PC!</p>
 ]]></content>
   </entry>
   

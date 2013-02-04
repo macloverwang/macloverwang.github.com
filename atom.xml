@@ -4,7 +4,7 @@
   <title><![CDATA[Momo's Blog]]></title>
   <link href="http://macloverwang.github.com/atom.xml" rel="self"/>
   <link href="http://macloverwang.github.com/"/>
-  <updated>2013-02-05T03:25:31+08:00</updated>
+  <updated>2013-02-05T03:36:12+08:00</updated>
   <id>http://macloverwang.github.com/</id>
   <author>
     <name><![CDATA[MomoWong]]></name>
@@ -55,6 +55,50 @@
 没有人听见恶狗的嚎叫，或是命运的脚步。<br>
 历史老师解开领口<br>
 在家庭作业上打了个哈欠。<br></p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[只用iPad的30天之第十二天：小Pad]]></title>
+    <link href="http://macloverwang.github.com/blog/2011/08/31/zhi-yong-ipadde-30tian-zhi-di-shi-er-tian-%3Axiao-pad/"/>
+    <updated>2011-08-31T03:28:00+08:00</updated>
+    <id>http://macloverwang.github.com/blog/2011/08/31/zhi-yong-ipadde-30tian-zhi-di-shi-er-tian-:xiao-pad</id>
+    <content type="html"><![CDATA[<!-- more -->
+
+
+<p>这个月，除了以iPad代替PC使用，完成iPad的30天体验测试任务外，我还必须保证其它项目及相关商务工作不能因此受到影响。因此，今天我准备好好整理一下这些事情，看看我是如何在iPad上完成他们的。<br>
+我PC上有一些日常工作及商务使用软件,经过这么多年的使用考验,用起来顺手且可靠。很可惜，大多数都没有对应的iPad版应用。看来，我只能花点时间研究研究，寻找合适的替代应用了。某种方面来说，这和我上次30天Ubuntu Linux项目体验差不多，理论上没有什么事情做不了的，但你应该知道学习曲线的问题，且需要为此付出特别努力。<br>
+目前,Apple的应用商店大约有超过425000款应用,为iPad开发优化的大约有10万之多.Apple最近宣称,通过App store已售出了大约150亿份应用。长话短说吧，我的意思是，这么多应用，你总能找到一款你所需要的合适应用。<br></p>
+
+<h4>联系人管理</h4>
+
+
+<p>此方面在iPad的第8天已经做过专题讨论,这里就不再赘述了。在PC上，我使用Outlook程序来管理联系人及其相关事务，而在iPad上，我使用VIPorbit应用。可惜VIPorbit目前只有iphone版，不过相信iPad版很快就会推出。<br></p>
+
+<h4>待办任务管理(GTD)</h4>
+
+
+<p>同样，在iPad的第9天，我们已经详细讨论过iPad上的待办事项以及计划任务管理。RTM（Remember The Milk）这款应用对我来说挺适用。不过另外几款也不错，如Bento、Things、Taska等。我也喜欢使用Bento，总体来说这款应用和RTM差不多。后面，我还会比较尝试使用Things和Taska的。<br></p>
+
+<h4>财务管理</h4>
+
+
+<p>自从Quicken财务管理软件推出以来，我就一直使用，几乎每个版本都用过，可以说是铁杆用户了。在PC上，我个人以及商业方面的财务都是靠它来管理。像发票制作以及应收帐款跟踪事务等，处理起来得心应手。令人费解的是，iOS移动应用迅猛发展的今天，Quicken竟然没有iOS版本应用，真不知道Intuit公司是怎么想的。我在App Store搜索了一番，找到一些类似应用，还不错，有几款支持导入导出Quicken的QIF格式文件。这样，出门在外时，我可以使用他们，回到家或公司时再安排同PC上的Quicken做同步。不过，这也不是根本解决办法，发票制作还是无法处理。我的目标是iPad能够代替PC来使用，而不是作为PC的补充。在iPad或iPhone上，你还可以使用Intuit公司的网站Mint.com来进行在线财务管理，使用体验还不错。但是，对我来说，缺乏面向商业的发票处理功能的应用，始终不算是成熟的解决方案。<br>
+<img src="http://macloverwang.github.com/images/ipad13.jpg"><br>
+如同我上一个30天使用Ubuntu项目一样，能不能搜索找到你需要的解决方案，取决于你如何挖掘寻找了，我在App Store以发票关键字搜索后，找到了大约60种不同应用，经过深入的研究分析，最后锁定了Invoice2go for iPad应用，这款应用可以制作精美的发票，可以跟踪管理收入支出，甚至能生成统计报表以供财务分析。不错，财务管理的需求基本得到满足。</p>
+
+<h4>时间开销管理</h4>
+
+
+<p>我的项目有按小时核算的，有不按时间核算的，但是不管按不按小时计算，对我老说，掌握跟踪项目时间开销于我非常有价值。PC上我使用Freshbooks来查看管理时间花费，这是一款基于WEB网站的应用，因此在iPad上使用体验同PC没什么差异。<br>
+Freshbooks有iOS版本应用，没有网络的情况下，移动办公时，我们也可以在本地使用。奇怪的是，这款应用现在在APP STORE上消失。看来只能再找替代应用了，MiniBooks Lite是一款iPhone版本的类似应用，它采用Freshbooks API与Freshbooks网站通讯与同步，作为非iPad原生应用，在iPad上只能勉强使用，但有总比没有好吧。
+<img src="http://macloverwang.github.com/images/ipad14.jpg"></p>
+
+<h4>商务票据管理</h4>
+
+
+<p>虽然有些事情通常在PC上的Quicken中处理很顺手，但是在带有摄像头的iPad上面，还有更好的应用可以选择，Expensify就是这样一款应用。使用Quicken管理商务花费时，你不必再将发票、收据等纸头放在鞋盒子里啦（开个玩笑），你可以通过扫描仪将他们转化为电子影像，保存在Quicken里，确实很方便，但是扫描工作挺繁琐乏味。使用Expensify就方便多了，打开摄像头对准发票等单据拍照，Expensify将自动将他们转为电子影像并自动OCR解析登记日期，金额等信息，你所要做的就是再做适当编辑、分类、归档、打上标签以备后续检索。简直是太方便了。我想，在浩如烟海的iOS应用中，类似独特功能的iPad精品应用应该很多，等待你的只是探索与发现。<br>
+总之，到目前为止，我还没遇到什么PC可以而iPad上不能完成的任务，我相信这样的使用场景肯定有，比如在iPad上制作复杂3D图像，可我不需要处理这些任务，因此对我没什么影响。正如我以前说过，使用你不熟悉或不擅长的工具，很多时候就是以唯一可用的困难方式处理原本可以简单处理的任务，犹如逆流游泳，但请坚信，事情总是有其解决之道！</p>
 ]]></content>
   </entry>
   
