@@ -4,7 +4,7 @@
   <title><![CDATA[Momo's Blog]]></title>
   <link href="http://macloverwang.github.com/atom.xml" rel="self"/>
   <link href="http://macloverwang.github.com/"/>
-  <updated>2013-02-05T03:47:06+08:00</updated>
+  <updated>2013-02-05T03:53:35+08:00</updated>
   <id>http://macloverwang.github.com/</id>
   <author>
     <name><![CDATA[MomoWong]]></name>
@@ -55,6 +55,41 @@
 没有人听见恶狗的嚎叫，或是命运的脚步。<br>
 历史老师解开领口<br>
 在家庭作业上打了个哈欠。<br></p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[只用iPad的30天之第十四天：iPad打印解决方案]]></title>
+    <link href="http://macloverwang.github.com/blog/2012/01/10/zhi-yong-ipadde-30tian-zhi-di-shi-si-tian-%3Aipadda-yin-jie-jue-fang-an/"/>
+    <updated>2012-01-10T03:52:00+08:00</updated>
+    <id>http://macloverwang.github.com/blog/2012/01/10/zhi-yong-ipadde-30tian-zhi-di-shi-si-tian-:ipadda-yin-jie-jue-fang-an</id>
+    <content type="html"><![CDATA[<!-- more -->
+
+
+<p>早在这次iPad的30天项目伊始，通过邮件、twitter以及留言的方式，很多读者要求我开个专题讨论iPad上的打印解决方案。好吧，今天就来给大家一个交待。<br>
+就我个人来说，我很少需要打印。尽管如此，读者不要求，我也会在这次iPad的30天使用项目中专题讨论。但要提醒大家的是，打印功能我用的少，自然就没做深入研究，所以在这次iPad代替PC使用的实验项目里，对于iPad的打印解决方案研究算是浅尝辄止,不过还是希望对大家有所帮助。<br>
+通常出门购物时，我会打印记录在onenote上的购物清单，这应该算是我的主要打印需要。这周我也懒得打印了，直接在iPad记下购物清单，然后带着它出门，感觉甚是方便。工作上，打印需求偶尔也是有的。比如，我有时会打印某些文件，签字扫描后邮件或传真出去。有需求就有解决办法，下面我们一起来看看，这些任务如何在iPad上来完成。<br></p>
+
+<h4>寻找合适的打印应用</h4>
+
+
+<p>打印功能可以说是PC内置的一项基本功能，无论是使用windows、MacOS、Ｌinux或者其他现代操作系统，对于大多数打印机，操作系统都能自动识别并安装合适的驱动。我们只要在需要打印的应用里点击打印，剩下的就全交给操作系统了。而在iPad上直接打印，现阶段，需要你花费时间和精力去研究和配置。单就这点来说，iPad代替PC之路还很漫长。<br>
+日渐丰富的iOS应用商店里，打印处理软件还真是不少，我以Printer关键字简单搜索了下，有64个iPad相关应用，这么多应用，看来我还是按客户评价选择比较靠谱。试用折腾了一番，总结来说，各种打印实现原理无外乎以下2类：使用AirPrint兼容的打印机打印输出（后面详述）；使用基于PC的代理程序，接收打印指令发送到PC打印机上。基于本项目目的，后者显然无需考虑了。<br></p>
+
+<h4>Epson iPrint</h4>
+
+
+<p>Epson iPrint是一款客户评价最高的应用 ，我自己的无线打印机是Epson Artisan 710，可以被支持，适逢该应用限免， 赶紧下载安装了。接下来就是运行程序并配置使用，经过一番自动搜寻，提示无法找到打印机，点击搜索按钮进行手工寻找，还是提示找不到打印机，翻看在线手册、手工添加反复尝试，一番奋战，终于，美丽的打印机图标出现在了iPad上。经过打印测试似乎一切正常。在应用里可以直接访问打印iPad图库里的图片，同时还支持打印存储在Box.net, Google Docs, Evernote, 以及Dropbox里的图片。不过不支持打印safari浏览器里的网页内容。 作为替代，该应用提供了内置浏览器以供打印网页内容。另外iWorks应用套件如Pages文档打印也是不支持的。办法只能自己想了，比如先将文档存储到Dropbox等云端服务里，然后访问并打印。<br>
+通过iPad上的Epson iPrint程序我基本可以做到脱离PC使用我的Epson Artisan 710无线打印机了。不过实际使用时，我总会将打印机物理上从我妻子的电脑上断开，然后通过无线网络使用它，为啥这么麻烦？你懂的，我可不想把我妻子的打印配置搞糟，跪地板遭白眼，身上青一块紫一块可不是闹着玩的，所以干脆断开防止误操作。不过理论上应该是没问题的吧，我不敢确认，如果你在行，欢迎指教。<br>
+其他评价较高的类似应用还有支持Lexmark打印机的LexPrint，也是免费的，Lexmark打印机用户可以试试。<br>
+<img src="http://macloverwang.github.com/images/ipad16.jpg"><br></p>
+
+<h4>AirPrint</h4>
+
+
+<p>现在我们来说说iPad打印方案杀手锏特色功能：AirPrint 。不过你首先得拥有一台兼容AirPrint功能的打印机，目前，只有HP的部分新款打印机拥有该功能。我自己有一台几年前的HP LaserJet 1018，显然是不支持了。好消息是，部分HP的新款兼容AirPrint的机器价格还算便宜，如果你经常使用iPad无线打印，建议购置一台，99美元起步的机器对大家来说，应该不会带来太大的帐单压力吧。<br>
+苹果对AirPrint功能的描述如下：“通过AirPrint，你可以打印safari网页，图片、邮件、iworks文档、ibooks中的pdf以及第三方应用内容的等等，打印图片时还可以自动判断使用打印机中的打印相纸，甚至支持可管理的排队打印任务”。听上去很美吧，我也是这么觉的。如果现在让我选择新款打印机，我会毫不犹豫的抱回一台HP Envy 100。<br>
+最后问题交给你们了，需不需要iPad无线打印？是购买新款兼容AirPrint打印机还是费力通过PC中介使用老打印机？大家可参考我提供的解决办法自行决定。如果你还有更好的解决方案，欢迎通过评论方式不吝告知。</p>
 ]]></content>
   </entry>
   
