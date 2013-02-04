@@ -4,7 +4,7 @@
   <title><![CDATA[Category: iDevice | Momo's Blog]]></title>
   <link href="http://macloverwang.github.com/blog/categories/idevice/atom.xml" rel="self"/>
   <link href="http://macloverwang.github.com/"/>
-  <updated>2013-02-05T03:53:35+08:00</updated>
+  <updated>2013-02-05T04:02:15+08:00</updated>
   <id>http://macloverwang.github.com/</id>
   <author>
     <name><![CDATA[MomoWong]]></name>
@@ -12,6 +12,49 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[只用iPad的30天之第十五天：iPad上的文件管理与使用]]></title>
+    <link href="http://macloverwang.github.com/blog/2012/01/20/zhi-yong-ipadde-30tian-zhi-di-shi-wu-tian-%3Aipadshang-de-wen-jian-guan-li-yu-shi-yong/"/>
+    <updated>2012-01-20T04:01:00+08:00</updated>
+    <id>http://macloverwang.github.com/blog/2012/01/20/zhi-yong-ipadde-30tian-zhi-di-shi-wu-tian-:ipadshang-de-wen-jian-guan-li-yu-shi-yong</id>
+    <content type="html"><![CDATA[<!-- more -->
+
+
+<p>iPad要担负起关键计算设备的任务,方便的各类文件操作与管理能力不可或缺。如我们常用的新建、保存、打印、复制以及跨设备文件复制等操作。我常常还需要发送带有文件附件的电子邮件。鉴于iPad未能提供PC上那种文件夹、文件以及文件保存管理的系统机制，今天我们来探讨如何在iPad进行文件处理等相关操作。<br>
+在我上一次有关Ubuntu Linux的30天系列里，尽管在文件管理方面也遇到点麻烦，但毕竟图形化Linux系统还是保留了传统PC那套文件及文件夹模式。很快也就适应了。<br>
+iPad（准确地说是iOS系统）把文件处理看作无法逃开之恶俗之事，虽然它提供一种合适的在各应用内部处理文件的机制，但总让人感觉这是一种事后补救的解决办法。很多初次使用iOS设备人，在经过一番惊艳的使用感叹之后，也不忘问上一句：“真酷，但是我如何保存和使用文件呢？”。<br></p>
+
+<h4>iTunes File Syncing</h4>
+
+
+<p>iOS原生文件管理方法主要是基于并限制在各应用层面，并借助于iTunes工具同步来实现。将iPad连接到PC或MAC，打开iTunes进行自动或手工同步，然后点击设备的Apps页，向下滚动页面，你将看见各类支持文件共享的应用，选择某个应用，将文件拖拉至右边的框中，即可完成文件的上传与同步。可以看到各个应用文件支持看起来很孤立，假如你需要在多个应用里使用同一个文件，你要通过上面的文件同步方式，将文件同步到每个应用里单独使用。挺复杂不是吗？实际上假如能开辟一个公共区域存放公共文件，各应用按需访问或使用文件的话，iPad上的文件使用或管理应该更加高效一些。<br>
+<img src="/images/ipad17.jpg"><br>
+总之，就我个人感觉，iOS文件管理方式不够便捷优雅，Apple式的文件同步能力更象是用户抱怨压力下的权宜之计，单就这一点上， 所谓愉悦的用户体验无从谈起。<br></p>
+
+<h4>Wireless Drives</h4>
+
+
+<p>我决定尝试使用外部存储设备。你知道，在使用各种外部存储设备方面，iPad依然是广为诟病的不支持。目前Apple官方仅支持相机套件适配器让iPad直接读取相机内照片。当然，通过各种捣腾方式破解越狱，还是有办法让iPad连接移动硬盘、SD存储卡等设备，但即便是连接上了，通过iPad访问使用外部存储设备上保存的文件依然让人添堵。<br>
+市场上，一些厂商开发了一些内置WIFI功能的存储设备，作为无线热点，可以支持iOS设备的无线文件访问及存储。比较有代表性的设备有Kingston Wi-Drive和Seagate GoFlex Satellite。我有个1TB的Iomega硬盘，将它连接在我的Linksys无线路由器上，家里的PC都可以访问它，平时主要用来做做备份和存储家庭音乐。糟糕的是，尽管它已经处于PC无线可访问状态，我的iPad却无法访问它，我最后还是放弃了，就算能访问，iPad还是无法读取其中的储存内容。没办法，我最后选择了GoFlex Satellite。坦率的说，我64GB的iPad足够大了，我在上面存储了很多音乐及电影，日常携带使用绰绰有余。这次买了这块500G的GoFlex Satellite主要还是处于项目实验的目的。既然对iPad作为后PC时代主力设备使用寄予厚望，长期大容量外部存储能力的支持也应理所当然。<br>
+GoFlex Satellite硬盘内置WIFI,具有无线热点功能，当然，使用前你需要通过USB将PC上的数据传输到硬盘上。该款无线硬盘之所以支持iOS设备，主要靠Seagate开发的专用支持iOS系统数据访问的软件。下载安装这款叫GoFlex Media的免费应用，打开应用即可看见存储在硬盘上的各类数据。（提个醒，使用前别忘了断开同PC的连接，并打开硬盘无线开关，设置iOS设备连上硬盘的无线热点）。该硬盘还具有自带可充电电源及支持多台设备同时访问的优点。全家远游分享音乐电影这类场合应该是很适合。<br>
+<img src="/images/ipad18jpg"> <img src="/images/ipad19.jpg"><br>
+虽然这款设备总体不错，但仍有一些不足，这里我得唠叨几句。我在硬盘上存储了海量的音乐资料，但是GoFlex Media只是按字母顺序显示了其中的几千首，而且不支持按专辑及艺术家排序及显示歌曲明细内容，选歌时，我只能尽力通过歌名猜测。此外在工作时，这款硬盘高速运转的各种噪声也很夸张，简直大的令人难以忍受。最后，这款产品未预设安全机制，你必须自己在应用软件的设置里，修改无线热点名称或添加密码，以防止附近其他设备的未授权访问。<br>
+市场上的其他设备如Kingston Wi-Drive等功能应该类似，我就不一一测试了。 可以说，GoFlex Satellite这类产品代表了未来移动存储设备的发展方向，希望Seagate继续努力，改进优化并推出更好的新一代产品。<br></p>
+
+<h4>Cloud Storage</h4>
+
+
+<p>iPad内置容量有限，不支持外接USB或SD设备（不破解的前提下），这样看来，iPad搭配在线存储的解决方案还是比较理想的。目前提供在线云存储服务的产品主要有：Google Docs, Box.net, Dropbox, iDisk, and SugarSync等。常见的应用如DocsToGo可以直接使用这些服务，Apple的iWorks Pages可以使用支持WebDAV API的在线存储服务，比如iDisk。我喜欢使用Box.net，原因如下：第一，Box.net提供我习惯的文件及文件夹的方式存储数据。第二，支持同一文件在不同设备间的共享与同步，这样我也就不必担心文件不同版本的同步问题了。<br></p>
+
+<h4>iCloud</h4>
+
+
+<p>这个秋天，苹果发布iCloud服务后，我们将会有新的云存储服务可以选择。类似Box.net, Dropbox，以及上面提到的其他在线存储服务，iCloud支持从一台设备同步文件后，在其他不同iOS设备甚至PC上，我们可以共享访问同步同一文件。作为Apple的明星产品，iCloud还有一些其自身优势，比如iCloud无缝整合在iOS系统以及应用中,相比其他服务,可以提供更好的服务性能及使用体验，关键是除了存储及同步文档资料外，iCloud还能够自动备份数据，无缝同步音乐、图片、应用数据、书籍、邮件、联系人、日历事件。显然iCloud比其他在线存储服务提供更强大更全面实用的功能服务。<br>
+iCloud服务也并非完美，Apple主要为iOS推出该服务，虽然其后也开放支持windows平台，但大多数Linux、Android、BlackBerry、WebOS用户肯定是无缘使用了。<br>
+现在，我希望能尽快用上iCloud提供的优秀服务，但我也很可能继续使用Box.net，至少在我需要使用非苹果设备时，它可以很好的满足我。</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[只用iPad的30天之第十四天：iPad打印解决方案]]></title>
@@ -128,26 +171,6 @@ Freshbooks有iOS版本应用，没有网络的情况下，移动办公时，我�
 优点说了这么多,来说说问题吧! 这款键盘采用了USB接口可充电设计，这很好。问题在于，通过USB接口充电时我必须连接PC。尼玛，我这次项目主题就是30天只用iPad，即将发布的iOS5也是朝着一切皆无线的方向在努力，我还要用有线连接PC，你让我情何以堪啊!看样子，我得想法去找款USB电源转换适配器了。另一个是键盘尺寸问题，这款小巧兼具保护套功能的键盘套件,便携使用确实很方便。但在小键盘上大量输入文字就是另一回事了。在办公桌前，我还是喜欢使用Apple的标准尺寸无线键盘，通过HDMI接口接上我的23英寸显示器来使用iPad2。这样,我大致能获得习惯已久的类PC工作模式体验。<br>
 我一直认为，不以写作为职业的普通用户通常不需要实体键盘的。今秋，iOS5还会为iPad带来分离式键盘模式，具体来说就是，你两手端着iPad时，可以让虚拟键盘分成2部分后放置在屏幕左右底部，你左右大拇指可以很方便操作键盘，对于发发邮件、上山网这样少量文字输入真的是太方便了。什么？虚拟键盘写篇小说，你还是免了吧！
 我的iPad 2键盘评测大抵如此，各位朋友，你们呢？虚拟键盘好用吗？你需要使用实体键盘吗？或者你已找到自己喜爱的实体键盘了。有机会都来交流交流吧！</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[只用iPad的30天之第十天：Pad的电池真给力]]></title>
-    <link href="http://macloverwang.github.com/blog/2011/08/06/zhi-yong-ipadde-30tian-zhi-di-shi-tian-%3Apadde-dian-chi-zhen-gei-li/"/>
-    <updated>2011-08-06T02:56:00+08:00</updated>
-    <id>http://macloverwang.github.com/blog/2011/08/06/zhi-yong-ipadde-30tian-zhi-di-shi-tian-:padde-dian-chi-zhen-gei-li</id>
-    <content type="html"><![CDATA[<!-- more -->
-
-
-<p>通常,在办公桌前,我喜欢将笔记本插上电源,外接上全尺寸键盘、无线鼠标以及23英寸的显示器后工作。当然，笔记本电脑外出便携的优点也不能忘了，我经常带着它移动办公。移动早已不是问题，那么电池耐用呢？好吧，今天的项目任务就是测试比较笔记本和iPad各自的电池耐用表现。<br>
-我的笔记本型号是Dell XPS M1330，8GB内存，Seagate Momentus XT固态与机械混合式500G硬盘，安装有64位windows7系统。一个月以前，我那块原装电池在不外接电源的情况下，只能坚持使用30秒，基本上是寿终正寝了。于是我重新买了块9芯电池替换了它。理论上，现在这块电池和电脑刚买来时差不多。<br>
-测试前，我已经将2台设备充电至饱和状态。为了尽可能达到相一致的可比状态，我采取在2台设备上同时进行相同任务的方式，以模拟我日常的工作使用场景：打开word处理软件撰写文章（Word 2010/iWork Pages），使用浏览器上网查找资料（IE9/Safari），收阅邮件（Outlook2010/iPad Mail），使用Twitter（Tweetdeck/Twitter for iPad），Facebook（IE9/MyPad）以及管理待办任务（RTM website/RTM for iPad），并且后台不间断播放音乐（iTunes / iPod app）。<br>
-下午2:30，我开始测试。我在笔记本以及iPad上并行操作各项任务:在笔记本上查找资料时，在iPad上我也会查找相同资料；在笔记本上收阅邮件时，在iPad上也类似收阅邮件。我想你明白我在说什么。<br>
-<img src="/images/ipad10.jpg"><br>
-下午3:08，笔记本电量只剩下了65%，同时电池管理软件提示，还剩1小时33分钟可用。此时，iPad电量显示为91%。下午4:18，仅仅一个小时后，Windows7警告提示电池电量已低至10%警戒线，大约还能使用17分钟。几分钟后，再次警告电量严重不足低于7%，电量即将耗尽，系统将要进入休眠准备状态。下午4:25，系统正式休眠关机。可以看到，整个使用过程，我的笔记本仅保持了接近2个小时的工作状态。<br>
-反观iPad，现在是晚上的9:42，iPad2后台音乐依然不停的滚动播放，我忙碌于查找网络资料，不时的收阅着邮件，敲打着文章，顺便再看看社交网络信息。此时iPad 2电量显示为22%。哇，笔记本只坚持了大约2个小时，而我的iPad已不间断的运行了7个小时，显然，再用几个小时也毫无压力。<br>
-可能又有人会说，iPad能成为主流计算平台，要走的路还很长，它还有很大的不足，比如没有Flash的支持、不支持真正的多任务等等。我想说，不足还需改进，但在移动便携使用及电池耐用方面，iPad值得行业竞争者的尊敬和学习。<br>
-我的Dell笔记本厚1.3英寸，重约4磅，按常规笔记本标准来说，已经算轻巧的了。而ipad2不到其1/4厚，重仅1.33磅，且具备大部分办公娱乐功能，再加上4倍于我的笔记本使用时间，外出移动办公，我还有理由不选择它吗？</p>
 ]]></content>
   </entry>
   
