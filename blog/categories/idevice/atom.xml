@@ -4,7 +4,7 @@
   <title><![CDATA[Category: iDevice | Momo's Blog]]></title>
   <link href="http://macloverwang.github.com/blog/categories/idevice/atom.xml" rel="self"/>
   <link href="http://macloverwang.github.com/"/>
-  <updated>2013-02-05T02:43:32+08:00</updated>
+  <updated>2013-02-05T02:51:24+08:00</updated>
   <id>http://macloverwang.github.com/</id>
   <author>
     <name><![CDATA[MomoWong]]></name>
@@ -12,6 +12,26 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[只用iPad的30天之第九天：管理待办任务]]></title>
+    <link href="http://macloverwang.github.com/blog/2013/02/05/zhi-yong-ipadde-30tian-zhi-di-jiu-tian-%3Aguan-li-dai-ban-ren-wu/"/>
+    <updated>2013-02-05T02:50:00+08:00</updated>
+    <id>http://macloverwang.github.com/blog/2013/02/05/zhi-yong-ipadde-30tian-zhi-di-jiu-tian-:guan-li-dai-ban-ren-wu</id>
+    <content type="html"><![CDATA[<!-- more -->
+
+
+<p>回顾前面一段项目旅程，你知道，一些依赖PC处理的日常事务如邮件收阅、社交网络使用、联系人管理，我已经在iPad上找到了解决方案。今天，我们要谈论的是，对于我每日使用PC来进行的GTD(Getting Things Done)任务管理，在iPad上都有哪些应用工具可以使用。<br>
+基于我一直对Mirosoft Outlook很有爱，你可能很自然的认为，Outlook就是我最喜欢的待办任务管理工具。事实并非如此。我确实有时会用到它，我也喜欢它与OneNote的完美整合与协同。但对功能繁多强大的Outlook来说，仅仅用来管理日常待办任务，实在是大材小用了。而在任务管理功能方面，其又显得过于简单容易，难以达到及时提醒及有效管理待办任务事项的目的。<br>
+然而，平心而论，任何工具只能起到辅助作用，更多的应该依靠使用者的自律管理，否则，一切工具都是白搭。另外，我还需要在我所有设备上都保持同步一致的管理任务清单，这一点，Outlook做不到。话又说回来了，使用windows7系统的PC，除了Outlook，还真的没啥更好的了。还好，在无法使用Outlook的iPad上，选择倒是不少。<br>
+我花了不少时间试用了三款任务管理应用：HiTask，ToodleDo，and RTM (Remember the Milk)。以前，在我的PC及iPhone上我用过HiTask，它没有iPad版本，iPad上运行iPhone版应用，实在让人提不起兴趣（原因前面说过）。为了测试需要，我还是做了试用，结果HiTask在iPad上无法正常运行，测试不通过。<br>
+ToodleDo有iPad版本，其定制化及细节层级方面做的不错，在偏好设置里，可以控制任务细节显示的多少，调整字体大小，拓宽任务清单面板等，也可以配置在应用图标右上角数字显示某类任务的总数，比如过期任务、当日任务、标星重点任务、优先级任务。针对各类任务事项，还可以对事项描述属性字段做增减设置。ToodleDo还具有数据清除选项，比如清除一个月以前的已完成任务或者全部已完成任务，甚至是任务项清单、记事本、文件夹、任务项内容、地理位置等全部用户创建数据信息。
+<img src="/images/ipad9.jpg"><br>
+应用工具的选择总是具有相当的主观性，各人有自己的偏好。尽管ToodleDo功能上更强大一些，我还是更加钟情于RTM这款任务管理应用。RTM的个性化设置选项虽比ToodleDo少很多，但常用设置该有的都有，另外，我很喜欢它精美的界面，简单便捷的操作，以及在iPhone、iPad、PC等之间保持同步一致的能力。<br>
+还是那句话，萝卜青菜各有所爱。最近几个月来，我和我妻子尝试了很多任务管理类软件。最终，她选择了ToodleDo，我更爱RTM一些。各位看官，亲们，你们的选择呢？<br>
+好了，就此搁笔。卖糕的！现在我可以在我的RTM待办事项清单里，将30天iPad项目的第9天项目任务划掉了。</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[只用iPad的30天之第八天：试试联系人管理]]></title>
@@ -108,24 +128,6 @@ iOS5里完善后的联系人应用对我确实是个诱惑，除了满足基本�
 “连Flash都不支持，真糟糕！”，一些对iPad无爱的人总是把这话挂在嘴边，在Twitter上唧喳，在论坛里发帖数落Apple的不是，然后投奔到安桌阵营（google机器人系统完整支持Flash）。问题有这么严重吗？我认为这要看你怎么用了，像我吧，我通常发发邮件、用用Twitter，边听音乐边上网，每天再写几篇博文。这些事在iPad上都可以很好的完成，没觉的少了Flash会有什么问题。<br>
 可能大家最常抱怨的是，用iPad浏览有Flash内容的网站，补丁一样的空白区域飘来飘去，恩，确实很难看。不过这些内容大多是广告，不看也罢。Flash曾经以及现在仍是网络多媒体开发们的宠儿，是某种事实上的标准。这点我们必须承认，我们也忘不了它给我们带来的欢乐（一度泛滥互联网的Flash游戏，动画，多媒体展示等等）。在这里，我也不想自找没趣的辩论Flash是否依然重要，它何时死去，我想说的是，在Apple果断抛弃Flash之后，随着HTML5以及其他代替Flash的新技术发展，至少我是逐渐淡忘了它。我所看的各方面的变化是，Flash游戏网站越来越少了，iOS设备上的游戏多到你这辈子都玩不完；各大视频网站都支持iPad直接观看并且还推出方便的iOS客户端程序，热门大片电视剧应有尽有；各类教育学习甚至企业银行网站也都开始积极支持iOS设备，层出不穷的推出各类iOS应用。怎么，你经常访问的网站以及需获取的资源在iPad上没有解决方案？相信我，睡一觉醒来，或许将有惊喜等着你。<br>
 最后，一句话，没有Flash的iPad越来越精彩！</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[只用iPad的30天之第四天：小麻烦与小困惑]]></title>
-    <link href="http://macloverwang.github.com/blog/2013/02/05/zhi-yong-ipadde-30tian-zhi-di-si-tian-%3Axiao-ma-fan-yu-xiao-kun-huo/"/>
-    <updated>2013-02-05T02:04:00+08:00</updated>
-    <id>http://macloverwang.github.com/blog/2013/02/05/zhi-yong-ipadde-30tian-zhi-di-si-tian-:xiao-ma-fan-yu-xiao-kun-huo</id>
-    <content type="html"><![CDATA[<!-- more -->
-
-
-<p>今天仅仅是iPad30天项目的第四天, iPad代替笔记本使用还真是不容易,小麻烦和小问题还是不少,一起看看都有哪些吧!
-先来说说虚拟键盘, 你可别认为我是打字困难, 实际上,我在iPad的玻璃屏幕下的虚拟键盘上打字的速度还是很快的。我的问题是，当我调出虚拟键盘敲字时，整个键盘占了屏幕显示的一半，我能看到的内容区只剩下可怜的一半，这很不方便。另外，每次我都是将iPad横放在我面前，在占了半个屏幕的键盘敲着字母，眼睛还要盯着上半部分屏幕，这可视角度着实让人不爽阿。要是iPad做成双屏就会好很多，这样，在一个屏幕上敲字的同时，眼睛只需看着另外一块显示屏就好了。看样子，后面我要试试蓝牙无线键盘，看是不是能够避免这些问题。<br>
-<img src="/images/ipad3.jpg"><br>
-另外，我发现iOS的单词自动修正功能是把双刃剑，通常，在iPhone或者iPad上做些少量随意性的文字输入时，你不用太在意词语输入，尽管偶有输入错误，自动修正功能会及时修正。但是，撰写长篇大论时就不那么方便了，你在大量输入的同时，还要随时留意自动修正功能帮你修正的词汇是不是你真正想要的。<br>
-在iPad上撰写与发布文章也有点小麻烦，使用笔记本时，我通常是在word里写好文章，保存在本地，然后通过拷贝复制到blog工具来发布到网上。使用iPad，我没法使用word了，而且blog发布工具在iPad的safari浏览器中也不能很好的工作。我在iPad上安装有iWork套件的Pages，DocsToGo以及Google Docs作为微软Word的替代文字编辑软件。悲催的是，同Word相比比，这些应用都不太趁手啊，你知道，我的文章里通常都会插入一些超链接，但是这些工具都不支持，我也尝试过在safari浏览器里使用在线Google Docs以及微软的Office 365 word网络版，用下来，问题还是很多。目前还不知道这些是iPad还是以上文字处理软件，还是我没有正确设置的问题，接下来几天，我打算努力解决一下。<br>
-到目前为止，情况不是很妙，在iPad上有些事情做起来很顺手，有些事情又困难重重，虽然通常我们可以找到解决问题的办法或采用其他方式来规避问题，但是浪费了我们很多本可以专注于做事的时间。到底这个项目我的努力是否值得，30天后自然见分晓。希望经过这些天困难的磨练，以及曲折探索学习，我的项目能够进展的越来越顺利！<br>
-前面我遇到的一些应用的问题，可能有些不是iPad本身的功能问题，也许Google Docs和Office 365在iPad使用一直就存在兼容性问题。不管怎么说，都直接影响了iPad能否代替笔记本，成为未来的主流计算工具的能力。好在我们一直在路上，按照iPad现在的普及与发展势头，很多问题都会迎刃而解。Apple也一直在努力，期待着iOS5.1，哪怕是iOS6，问题终将不是问题，一切皆有可能！</p>
 ]]></content>
   </entry>
   
