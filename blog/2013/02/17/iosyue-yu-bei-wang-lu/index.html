@@ -92,11 +92,13 @@
 6、cydia中安装Openssh，Openssl，activator，NCSetting，MobileTerminal，AppSync（这个看心情是否安装）；<br>
 7、出于风险意识，打开MobileTerminal修改root密码，原始密码是alpine；<br>
 8、修改运营商标识，操作步骤如下：<br>
-首先重命名运营商图标文件，中国移动客户将2个png图片名修改为
-：Default_CARRIER_China-Mobile_1only<em>@2x和FSO_CARRIER_China-Mobile_1only</em>@2x
-把FSO开头的图片再复制一张名字改为TS_CARRIER_China-Mobile_1only_@2x;<br>
-sftp root@iphone&#8217;s IP连接<br>
-执行put /Users/wang/Desktop/ATT/<em>.</em> /System/Library/Carrier\ Bundles/iPhone/CMCC_cn.bundle<br></p>
+中国移动客户准备如下3张png图片<br>
+Default_CARRIER_China-Mobile_1only<em>@2x<br>
+FSO_CARRIER_China-Mobile_1only</em>@2x<br>
+TS_CARRIER_China-Mobile_1only_@2x(此张图片复制FSO文件重命名得到)<br>
+使用sftp上传指定目录<br>
+sftp root@iphone&#8217;s IP<br>
+put /Users/wang/Desktop/ATT/<em>.</em> /System/Library/Carrier\ Bundles/iPhone/CMCC_cn.bundle<br></p>
 
 <p>最后成果如下：<br>
  <img src="/images/final.PNG"><br></p>
