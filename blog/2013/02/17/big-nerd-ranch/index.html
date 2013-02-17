@@ -106,17 +106,11 @@ loaded as they are needed.<br></p>
 <h4>File&#8217;s Owner</h4>
 
 
-<br>
-
-
 <p>This is the object that will have access to the objects archived in the XIB file.
 It will be an instance of YouNameItViewController, which is the object responsible
 for managing events that occur on this interface.<br></p>
 
 <h4>First Responder</h4>
-
-
-<br>
 
 
 <p>This object doesn’t have much use in iOS right now; it is a relic from Desktop
@@ -125,11 +119,8 @@ Cocoa. You can ignore it.<br></p>
 <h4>View</h4>
 
 
-<br>
-
-
 <p>An instance of UIView that represents the application interface<br>
- <h4>Model-View-Controller</h4><br>
+ <h4>Model-View-Controller</h4>
 View objects are visible to the user.<br>
 Model objects hold data and know nothing about the user interface.<br>
 Model objects typically use standard collection classes (NSArray, NSDictionary, NSSet) and standard value types (NSString, NSDate, NSNumber). But there can be custom classes, which typically have names that sound like data-bearing objects, such as InsurancePolicy or PlayerHistory.<br>
@@ -147,9 +138,6 @@ to have names like ScheduleController and ScoreViewController. <br>
 <h4>IBOutlet and IBAction</h4>
 
 
-<br>
-
-
 <p>They allow you to connect your controller and your view objects in the XIB file.<br>
 A connection lets one object know where another object is in memory so that the two objects can
 work together. Your objects need connections.<br></p>
@@ -157,17 +145,11 @@ work together. Your objects need connections.<br></p>
 <h4>Setting pointers</h4>
 
 
-<br>
-
-
 <p>Notice that you drag from the object with the pointer to the object that you want that pointer to point at.
 Also, notice that the pointers that appear in the connections panel are the ones that you decorated with
 IBOutlet in YouNameItViewController.h.<br></p>
 
 <h4>Setting targets and actions</h4>
-
-
-<br>
 
 
 <p>When a UIButton is tapped, it sends a message to another object. The object that is sent the message
