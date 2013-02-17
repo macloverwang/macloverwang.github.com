@@ -4,7 +4,7 @@
   <title><![CDATA[Momo's Blog]]></title>
   <link href="http://macloverwang.github.com/atom.xml" rel="self"/>
   <link href="http://macloverwang.github.com/"/>
-  <updated>2013-02-17T21:44:44+08:00</updated>
+  <updated>2013-02-17T22:07:39+08:00</updated>
   <id>http://macloverwang.github.com/</id>
   <author>
     <name><![CDATA[MomoWong]]></name>
@@ -31,7 +31,7 @@ The iOS SDK is an object-oriented library, and views are represented by objects.
 instance of one of several subclasses of the UIView class. For example, a button is an instance of
 UIButton, which is a subclass of UIView.<br>
 you create and configure view objects and then save them into an archive. The archive is a XIB
-(pronounced “zib”)file.<br>
+(<U>pronounced “zib”</U>)file.<br>
 A XIB file is an XML representation of the archived objects. When you build a project, the XIB file is
 compiled into a NIB file. Developers work with XIB files (they’re easier to edit), and applications use
 NIB files (they’re smaller and easier to parse). However, most iOS developers use the words XIB and
