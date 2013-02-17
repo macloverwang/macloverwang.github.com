@@ -4,7 +4,7 @@
   <title><![CDATA[Momo's Blog]]></title>
   <link href="http://macloverwang.github.com/atom.xml" rel="self"/>
   <link href="http://macloverwang.github.com/"/>
-  <updated>2013-02-17T20:49:13+08:00</updated>
+  <updated>2013-02-17T20:57:14+08:00</updated>
   <id>http://macloverwang.github.com/</id>
   <author>
     <name><![CDATA[MomoWong]]></name>
@@ -29,11 +29,11 @@
 6、Cydia中安装Openssh，Openssl，activator，NCSetting，MobileTerminal，AppSync（这个看心情是否安装）；<br>
 7、出于风险意识，打开MobileTerminal修改root密码，原始密码是alpine；<br>
 8、修改运营商标识，操作步骤如下：<br>
-中国移动客户准备如下3张png图片<br>
-Default_CARRIER_China-Mobile_1only<em>@2x<br>
-FSO_CARRIER_China-Mobile_1only</em>@2x<br>
-TS_CARRIER_China-Mobile_1only_@2x(此张图片复制FSO文件重命名得到)<br>
-使用sftp上传指定目录<br>
+   中国移动客户准备如下3张合适的png图片<br>
+   Default_CARRIER_China-Mobile_1only<em>@2x<br>
+   FSO_CARRIER_China-Mobile_1only</em>@2x<br>
+   TS_CARRIER_China-Mobile_1only_@2x(此张图片复制FSO文件重命名得到)<br>
+   使用sftp上传文件至指定目录<br>
 sftp root@iphone&#8217;s IP<br>
 put /Users/wang/Desktop/ATT/<em>.</em> /System/Library/Carrier\ Bundles/iPhone/CMCC_cn.bundle<br></p>
 
