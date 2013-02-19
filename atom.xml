@@ -4,7 +4,7 @@
   <title><![CDATA[Momo's Blog]]></title>
   <link href="http://macloverwang.github.com/atom.xml" rel="self"/>
   <link href="http://macloverwang.github.com/"/>
-  <updated>2013-02-19T19:42:53+08:00</updated>
+  <updated>2013-02-19T19:45:49+08:00</updated>
   <id>http://macloverwang.github.com/</id>
   <author>
     <name><![CDATA[MomoWong]]></name>
@@ -195,8 +195,7 @@ rvm<br></p>
 
 <p>基本上，安裝完rvm就可以直接升级ruby 1.9.3，但是在Mountain lion上，rvm在安装ruby 1.9.3的时候会遇到问题， 所以，必須通过brew安装libksba这个libary。 要安装homebrew，首先：<br></p>
 
-<figure class='code'><figcaption><span>class:sh </span></figcaption>
-<div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
+<figure class='code'><div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
 </pre></td><td class='code'><pre><code class=''><span class='line'>cd /usr/local</span></code></pre></td></tr></table></div></figure>
 
 
