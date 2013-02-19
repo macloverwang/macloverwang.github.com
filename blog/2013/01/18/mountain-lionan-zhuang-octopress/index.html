@@ -1,0 +1,246 @@
+
+<!DOCTYPE HTML>
+<html>
+<head>
+	<meta charset="utf-8">
+	<title>Mountain Lion环境安裝Octopress与Github - Momo's Blog</title>
+	<meta name="author" content="MomoWong">
+
+	
+	<meta name="description" content="以前使用的wordpress blog空间被墙了，使用甚是不便，偶然发现现在很流行在github上使用Octopress搭建blog，研究了一番开干，整个过程分3大步骤，折腾了我2天的时间，才算基本搞定，现记录过程如下备忘： Step 1 安裝Ruby 1.9.3 Mountain &hellip;">
+	
+	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+
+	<link href="/atom.xml" rel="alternate" title="Momo's Blog" type="application/atom+xml">
+	<link rel="canonical" href="">
+	<link href="/favicon.png" rel="shortcut icon">
+	<link href="/stylesheets/screen.css" media="screen, projection" rel="stylesheet" type="text/css">
+	<!--[if lt IE 9]><script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
+	<script src="//ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
+	
+</head>
+
+<body>
+	<header id="header" class="inner"><h1><a href="/">Momo's Blog</a></h1>
+<nav id="main-nav"><ul class="main">
+	<li><a href="/">Blog</a></li>
+	<li><a href="/blog/archives">Archives</a></li>
+</ul>
+</nav>
+<nav id="mobile-nav">
+	<div class="alignleft menu">
+		<a class="button">Menu</a>
+		<div class="container"><ul class="main">
+	<li><a href="/">Blog</a></li>
+	<li><a href="/blog/archives">Archives</a></li>
+</ul>
+</div>
+	</div>
+	<div class="alignright search">
+		<a class="button"></a>
+		<div class="container">
+			<form action="http://google.com/search" method="get">
+				<input type="text" name="q" results="0">
+				<input type="hidden" name="q" value="site:macloverwang.github.com">
+			</form>
+		</div>
+	</div>
+</nav>
+<nav id="sub-nav" class="alignright">
+	<div class="social">
+		
+		
+		
+		<a class="twitter" href="http://twitter.com/thinkapplewang" title="Twitter">Twitter</a>
+		
+		
+		<a class="github" href="https://github.com/macloverwang" title="GitHub">GitHub</a>
+		
+    
+		
+		
+		
+		
+		
+		<a class="rss" href="/atom.xml" title="RSS">RSS</a>
+		
+	</div>
+	<form class="search" action="http://google.com/search" method="get">
+		<input class="alignright" type="text" name="q" results="0">
+		<input type="hidden" name="q" value="site:macloverwang.github.com">
+	</form>
+</nav>
+
+</header>
+	
+		
+	
+	<div id="content" class="inner"><article class="post">
+	<h2 class="title">Mountain Lion环境安裝Octopress与Github</h2>
+	<div class="entry-content"><p> <!-- more -->
+以前使用的wordpress blog空间被墙了，使用甚是不便，偶然发现现在很流行在github上使用Octopress搭建blog，研究了一番开干，整个过程分3大步骤，折腾了我2天的时间，才算基本搞定，现记录过程如下备忘：<br></p>
+
+<h3>Step 1 安裝Ruby 1.9.3</h3>
+
+
+<p>Mountain lion内建的ruby版本号为1.8.7，安装Octopress首先需要升级到ruby 1.9.3。 安装新版本的ruby，又必须安装以下套件。<br>
+Xcode (本机已安装Xcode 4.5) <br>
+command line utilities (已安装)<br>
+homebrew <br>
+使用brew安装libksba<br>
+rvm<br></p>
+
+<h4>安裝homebrew</h4>
+
+
+<p>基本上，安裝完rvm就可以直接升级ruby 1.9.3，但是在Mountain lion上，rvm在安装ruby 1.9.3的时候会遇到问题， 所以，必須通过brew安装libksba这个libary。 要安装homebrew，首先：<br></p>
+
+<figure class='code'><figcaption><span>class:sh </span></figcaption>
+<div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
+</pre></td><td class='code'><pre><code class=''><span class='line'>cd /usr/local</span></code></pre></td></tr></table></div></figure>
+
+
+<p>然后执行以下指令下载并安装homebrew：<br>
+mkdir homebrew &amp;&amp; curl -L https://github.com/mxcl/homebrew/tarball/master | tar xz &#8211;strip 1 -C homebrew
+安完homebrew之后，记得要设定路径，请在~/.bashrc中加入：<br>
+export PATH=/usr/local/homebrew/bin:$PATH
+确认brew指令可以使用之后，用以下指令安装libksba：<br>
+brew install libksba
+参考资料：<br>
+https://github.com/mxcl/homebrew/wiki/installation <br>
+http://crosstown.coolestguyplanettech.com/os-x/40-setting-up-os-x-lion-to-plug-into-homebrew-package-manager<br></p>
+
+<h4>安装rvm</h4>
+
+
+<p>安装rvm，通过rvm来更新ruby的版本，执行以下指令安装：<br>
+curl -L https://get.rvm.io | bash -s stable &#8211;ruby
+原则上，上面这个指令，会将rvm安在~/.rvm/文件中，所以，我们必须设定rvm的路径，请在~/.bashrc中加入：<br>
+[[ -s &#8220;$HOME/.rvm/scripts/rvm&#8221; ]] &amp;&amp; . &#8220;$HOME/.rvm/scripts/rvm&#8221;</p>
+
+<p>使用 rvm來安装ruby，原则上，在安装rvm的过程中，它会自动帮你安装最新版的ruby， 如果没有的话，请输入以下指令安装ruby 1.9.3：<br>
+rvm install 1.9.3
+接着，切换ruby的版本：<br>
+rvm use 1.9.3
+基本上，安装完ruby，可以使用以下指令查看ruby的版本<br>
+ruby -v
+不过，rvm use 1.9.3只是暂时将ruby转成1.9.3，重新打开终端，就会变回原本的1.8.7，如果要完全切换成1.9.3， 需要将1.9.3设成default的版本：<br>
+rvm &#8211;default use  1.9.3
+以上就是ruby 1.9.3的安装步骤。<br></p>
+
+<h3>Step 2 安装Octopress</h3>
+
+
+<p>git下载Octopress到Home目录：<br>
+cd ~/
+git clone git://github.com/imathis/octopress.git octopress</p>
+
+<p>如果你沒有git的話，到http://code.google.com/p/git-osx-installer/下载安装最新版本。<br>
+然后输入以下指令安装Octopress<br>
+cd ~/octopress
+gem install bundler
+bundle install
+rake install
+安装完成之后，切换到octopress的目录，使用preview预览安装是否成功：<br>
+cd ~/octopress
+rake preview
+输入完rake preview之后，开启safari，并输入 http://127.0.0.1:4000进行预览<br>
+ 通过修改_config.yml，更改Blog的一些基本的设定，如title和作者，更详细的内容参考官网。<br></p>
+
+<h3>Step 3 Deploy 到Github</h3>
+
+
+<p>Github免费平台，可以将我们的Octopress产生的html存放在github.com之下，而且还可以使用免费的Domain name。<br>
+首先到https://github.com/申请一个帐号，并且建立一个 username.github.com的仓储 <br>
+github申请好之后，将本地的Octopress发布到刚申请好的github空间， 执行以下指令连接github：<br>
+rake setup_github_pages
+接着按提示输入欲连接的仓储：<br>
+git@github.com:yourname/yourname.github.com.git<br>
+然后，使用如下命令产生页面并上传部署:<br>
+rake generate
+rake deploy
+如果在发布过程中可能遇到报错:Permission denied (publickey).<br>
+这是因为我们尚未在GitHub账户中正确设置公钥认证。执行以下命令生成密钥:<br>
+ssh-keygen -t rsa
+然后根据提示在用户主目录下的.ssh目录中创建默认的公钥/私钥对文件，其中~/.ssh/id_rsa是私钥文件，~/.ssh/id_rsa.pub是公钥文件。将公钥内容复制后,拷贝至下图显示的是GitHub的SSH公钥设置界面。<br></p>
+
+<p>最后，确认成功访问http://yourname.github.com，大功告成。<br></p>
+</div>
+
+
+<div class="meta">
+	<div class="date">
+
+
+
+
+
+
+
+
+  
+
+
+<time datetime="2013-01-18T19:39:00+08:00" pubdate data-updated="true">Jan 18<span>th</span>, 2013</time></div>
+	<div class="tags">
+
+</div>
+	
+</div></article>
+
+	<div class="share">
+	<div class="addthis_toolbox addthis_default_style ">
+	
+	
+	<a class="addthis_button_tweet"></a>
+	
+	
+	<a class="addthis_counter addthis_pill_style"></a>
+	</div>
+  <script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#pubid="></script>
+</div>
+
+
+
+<section id="comment">
+    <h2 class="title">Comments</h2>
+    <div id="disqus_thread" aria-live="polite"><noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+</div>
+</section>
+</div>
+	<footer id="footer" class="inner">Copyright &copy; 2013
+
+    MomoWong
+
+</footer>
+	<script src="/javascripts/slash.js"></script>
+<script src="/javascripts/jquery.fancybox.pack.js"></script>
+<script type="text/javascript">
+(function($){
+	$('.fancybox').fancybox();
+})(jQuery);
+</script> <!-- Delete or comment this line to disable Fancybox -->
+
+
+<script type="text/javascript">
+      var disqus_shortname = 'macloverwang';
+      
+        
+        // var disqus_developer = 1;
+        var disqus_identifier = 'http://macloverwang.github.com/blog/2013/01/18/mountain-lionan-zhuang-octopress/';
+        var disqus_url = 'http://macloverwang.github.com/blog/2013/01/18/mountain-lionan-zhuang-octopress/';
+        var disqus_script = 'embed.js';
+      
+    (function () {
+      var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+      dsq.src = 'http://' + disqus_shortname + '.disqus.com/' + disqus_script;
+      (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+    }());
+</script>
+
+
+
+
+
+</body>
+</html>
