@@ -4,7 +4,7 @@
   <title><![CDATA[Momo's Blog]]></title>
   <link href="http://macloverwang.github.com/atom.xml" rel="self"/>
   <link href="http://macloverwang.github.com/"/>
-  <updated>2013-02-20T18:41:34+08:00</updated>
+  <updated>2013-02-20T19:01:06+08:00</updated>
   <id>http://macloverwang.github.com/</id>
   <author>
     <name><![CDATA[MomoWong]]></name>
@@ -122,8 +122,8 @@ button should trigger.<br></p>
 
 <figure class='code'><div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
 <span class='line-number'>2</span>
-</pre></td><td class='code'><pre><code class=''><span class='line'>sftp root@iphone's IP&lt;br>
-</span><span class='line'>put /Users/wang/Desktop/ATT/*.* /System/Library/Carrier\ Bundles/iPhone/CMCC_cn.bundle&lt;br></span></code></pre></td></tr></table></div></figure>
+</pre></td><td class='code'><pre><code class=''><span class='line'>sftp root@iphone's IP
+</span><span class='line'>put /Users/wang/Desktop/ATT/*.* /System/Library/Carrier\ Bundles/iPhone/CMCC_cn.bundle</span></code></pre></td></tr></table></div></figure>
 
 
 <p>最后秀张：<br>
