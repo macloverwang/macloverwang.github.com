@@ -4,7 +4,7 @@
   <title><![CDATA[Momo's Blog]]></title>
   <link href="http://macloverwang.github.com/atom.xml" rel="self"/>
   <link href="http://macloverwang.github.com/"/>
-  <updated>2013-04-15T21:04:07+08:00</updated>
+  <updated>2013-04-15T21:18:48+08:00</updated>
   <id>http://macloverwang.github.com/</id>
   <author>
     <name><![CDATA[MomoWong]]></name>
@@ -29,10 +29,10 @@
 
 
 <p>应用程序GeoQuiz由一个activity（活动）和一个layout（布局）组成：<br>
-每个activity是Android SDK中Activity类的一个具体实例。一个activity负责管理用户与屏幕信息的交互。<br>
+1、每个activity是Android SDK中Activity类的一个具体实例。一个activity负责管理用户与屏幕信息的交互。<br>
 通过开发一个个Activity的子类来实现我们应用程序所需的功能。简单应用可以只有一个子类，而复杂应用可以有多个子类。<br>
 GeoQuiz是个简单应用，因此它只有一个名叫QuizActivity的Activity的子类。QuizActivity管理着图1.1所示的用户界面。<br>
-每个layout定义着一系列用户界面对象以及他们在屏幕上的位置。这些定义保存在XML文件中。一个定义用来创建屏幕上的一个对象。如button按钮或文本控件。<br>
+2、每个layout定义着一系列用户界面对象以及他们在屏幕上的位置。这些定义保存在XML文件中。一个定义用来创建屏幕上的一个对象。如button按钮或文本控件。<br>
 GeoQuiz应用包含一个名叫activity_quiz.xml的layout文件。它定义了图1.1全部用户界面。<br>
 QuizActivity与activity_quiz.xml的关系如下图1.2所示.<br>
 <img src="http://macloverwang.github.com/images/tf_design.png"><br>
