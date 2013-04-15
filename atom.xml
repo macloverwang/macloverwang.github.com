@@ -4,7 +4,7 @@
   <title><![CDATA[Momo's Blog]]></title>
   <link href="http://macloverwang.github.com/atom.xml" rel="self"/>
   <link href="http://macloverwang.github.com/"/>
-  <updated>2013-04-15T20:54:23+08:00</updated>
+  <updated>2013-04-15T21:04:07+08:00</updated>
   <id>http://macloverwang.github.com/</id>
   <author>
     <name><![CDATA[MomoWong]]></name>
@@ -23,7 +23,7 @@
 
 <p>这一章我们介绍了很多用来开发android应用程序的新概念以及拖移控件。读完本章，如果你仍然不能全部理解他们，也不必担心。在继续其他章节的学习过程中，你会不断温习到这些概念以及他们的更详细阐述。<br>
 我们马上要开发的一个名叫GeoQuiz的应用程序。GeoQuiz测试用户的地理知识。用户通过点按True或False来回答屏幕显示的问题，GeoQuiz即时反馈正确性。（图1.1显示了用户点击False按钮的结果）<br>
-<img src="http://macloverwang.github.com/images/ipad17.jpg"><br></p>
+<img src="http://macloverwang.github.com/images/tf_first_chapter.png"><br></p>
 
 <h4>应用程序基础</h4>
 
@@ -35,7 +35,7 @@ GeoQuiz是个简单应用，因此它只有一个名叫QuizActivity的Activity�
 每个layout定义着一系列用户界面对象以及他们在屏幕上的位置。这些定义保存在XML文件中。一个定义用来创建屏幕上的一个对象。如button按钮或文本控件。<br>
 GeoQuiz应用包含一个名叫activity_quiz.xml的layout文件。它定义了图1.1全部用户界面。<br>
 QuizActivity与activity_quiz.xml的关系如下图1.2所示.<br>
-<img src="http://macloverwang.github.com/images/ipad17.jpg"><br>
+<img src="http://macloverwang.github.com/images/tf_design.png"><br>
 有了这些基本概念后，我们来搭建我们的第一个应用程序。<br></p>
 
 <h4>创建一个Android项目</h4>
