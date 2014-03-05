@@ -4,7 +4,7 @@
   <title><![CDATA[Momo's Blog]]></title>
   <link href="http://macloverwang.github.com/atom.xml" rel="self"/>
   <link href="http://macloverwang.github.com/"/>
-  <updated>2014-03-05T22:25:51+08:00</updated>
+  <updated>2014-03-05T22:28:42+08:00</updated>
   <id>http://macloverwang.github.com/</id>
   <author>
     <name><![CDATA[MomoWong]]></name>
@@ -12,91 +12,6 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
-  
-  <entry>
-    <title type="html"><![CDATA[1.Studying in Big nerd ranch]]></title>
-    <link href="http://macloverwang.github.com/blog/2013/02/17/big-nerd-ranch/"/>
-    <updated>2013-02-17T21:23:00+08:00</updated>
-    <id>http://macloverwang.github.com/blog/2013/02/17/big-nerd-ranch</id>
-    <content type="html"><![CDATA[<!-- more -->
-
-
-<h4>Chapter 1 summary:</h4>
-
-
-<p>When an iOS application starts, it puts a view on the screen. You can think of this view as the
-background on which everything else appears: buttons, labels, etc. Buttons and labels are also views. In
-fact, anything that can appear to the user is a view.<br>
-The iOS SDK is an object-oriented library, and views are represented by objects. Each view is an
-instance of one of several subclasses of the UIView class. For example, a button is an instance of
-UIButton, which is a subclass of UIView.<br>
-you create and configure view objects and then save them into an archive. The archive is a XIB
-(<U>pronounced “zib”</U>)file.<br>
-A XIB file is an XML representation of the archived objects. When you build a project, the XIB file is
-compiled into a NIB file. Developers work with XIB files (they’re easier to edit), and applications use
-NIB files (they’re smaller and easier to parse). However, most iOS developers use the words XIB and
-NIB interchangeably.<br>
-When you build an application, the compiled NIB file is copied into the application’s bundle. The
-bundle is a directory containing the application’s executable and any resources the executable uses.
-When your application reads in, or loads, the NIB file from the bundle at runtime, the objects in the
-archive are brought to life. Simple application will have only one NIB file, and it will be loaded
-when the application first launches. A complex application, however, can have many NIB files that are
-loaded as they are needed.<br></p>
-
-<h4>File&#8217;s Owner</h4>
-
-
-<p>This is the object that will have access to the objects archived in the XIB file.
-It will be an instance of YouNameItViewController, which is the object responsible
-for managing events that occur on this interface.<br></p>
-
-<h4>First Responder</h4>
-
-
-<p>This object doesn’t have much use in iOS right now; it is a relic from Desktop
-Cocoa. You can ignore it.<br></p>
-
-<h4>View</h4>
-
-
-<p>An instance of UIView that represents the application interface<br>
- <h4>Model-View-Controller</h4>
-View objects are visible to the user.<br>
-Model objects hold data and know nothing about the user interface.<br>
-Model objects typically use standard collection classes (NSArray, NSDictionary, NSSet) and standard value types (NSString, NSDate, NSNumber). But there can be custom classes, which typically have names that sound like data-bearing objects, such as InsurancePolicy or PlayerHistory.<br>
-View and model objects are the factory workers of an application – they focus tightly on specific tasks.
-For example, an instance of UILabel (a view object) knows how to display text in a given font within a
-given rectangle. An NSString instance (a model object) knows how to store a character string. But the
-label doesn’t know what text it should display, and the string doesn’t know what characters it should
-store.<br>
-This is where controller objects come in. Controllers are the managers in an application. They keep the
-view and model objects in sync, control the “flow” of the application, and save the model objects out to
-the filesystem . Controllers are the least reusable classes that you will write, and they tend
-to have names like ScheduleController and ScoreViewController. <br>
-<img src="http://macloverwang.github.com/images/MVCDiagram.png"><br></p>
-
-<h4>IBOutlet and IBAction</h4>
-
-
-<p>They allow you to connect your controller and your view objects in the XIB file.<br>
-A connection lets one object know where another object is in memory so that the two objects can
-work together. Your objects need connections.<br></p>
-
-<h4>Setting pointers</h4>
-
-
-<p>Notice that you drag from the object with the pointer to the object that you want that pointer to point at.
-Also, notice that the pointers that appear in the connections panel are the ones that you decorated with
-IBOutlet in YouNameItViewController.h.<br></p>
-
-<h4>Setting targets and actions</h4>
-
-
-<p>When a UIButton is tapped, it sends a message to another object. The object that is sent the message
-is called the target. The message is called the action, and it is the name of the method that tapping the
-button should trigger.<br></p>
-]]></content>
-  </entry>
   
   <entry>
     <title type="html"><![CDATA[iOS越狱备忘录]]></title>
